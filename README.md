@@ -9,6 +9,8 @@ as setting %,px,margin and selecting the correct selector to apply with the next
 was fun make to make this project and learning more 
 suiiiiiiii⚽🐐
 
+tribute page link :https://rohanlakkz.github.io/CRISTIANO-RONALDO-TRIBUTE-PAGE/
+
 credit : freecodecamp
 link : https://www.freecodecamp.org/learn
 
